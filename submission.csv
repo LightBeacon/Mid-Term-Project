@@ -1,307 +1,307 @@
-Borough,Neighborhood,Latitude,Longitude,Number_of_Restaurants,Top_Restaurant_Category,Number_of_HC_Facilities,Number_of_Banks,Number_of_Schools,Number_of_Bus_Stops,Number_of_Venues,Number_of_Events,Daily_uber_rides,Cluster
-Bronx,Wakefield,40.89470518,-73.84720052,5,Sandwich Restaurant,7,2,9,0,69,0,0,3
-Bronx,Co-op City,40.87429419,-73.82993911,4,Restaurant,4,0,3,2,35,0,0,2
-Bronx,Eastchester,40.88755568,-73.82780645,10,Seafood Restaurant,1,1,3,4,42,0,0,1
-Bronx,Fieldston,40.89543743,-73.9056426,3,Mexican Restaurant,4,0,4,1,32,0,0,2
-Bronx,Riverdale,40.89083449,-73.91258546,10,Seafood Restaurant,1,2,1,1,51,0,22,2
-Bronx,Kingsbridge,40.88168737,-73.90281799,65,Vegetarian / Vegan Restaurant,0,1,0,0,124,0,11,4
-Manhattan,Marble Hill,40.87655078,-73.91065966,42,Steakhouse Restaurant,30,1,4,0,131,0,12,0
-Bronx,Woodlawn,40.89827261,-73.86731497,14,Pizza Restaurant,12,0,0,1,67,0,0,2
-Bronx,Norwood,40.87722416,-73.87939074,46,Spanish Restaurant,16,2,1,2,96,0,4,0
-Bronx,Williamsbridge,40.88103888,-73.85744643,22,Seafood Restaurant,4,1,4,0,56,0,3,1
-Bronx,Baychester,40.86685811,-73.8357976,13,Spanish Restaurant,3,2,0,0,40,0,1,1
-Bronx,Pelham Parkway,40.8574135,-73.85475564,21,Sandwich Restaurant,8,2,6,0,55,0,1,1
-Bronx,City Island,40.8472467,-73.78648845,19,Spanish Restaurant,1,1,0,0,65,0,0,1
-Bronx,Bedford Park,40.87018516,-73.88551218,56,Spanish Restaurant,9,0,3,1,103,0,0,2
-Bronx,University Heights,40.85572708,-73.91041596,34,Sandwich Restaurant,15,1,2,1,89,0,0,2
-Bronx,Morris Heights,40.84789793,-73.91967159,29,Spanish Restaurant,17,1,0,2,73,0,0,2
-Bronx,Fordham,40.8609968,-73.89642656,65,Spanish Restaurant,5,4,1,1,154,0,1,2
-Bronx,East Tremont,40.84269616,-73.88735618,24,Sandwich Restaurant,0,1,2,0,53,0,1,1
-Bronx,West Farms,40.83947506,-73.87774475,18,Sandwich Restaurant,0,1,3,4,50,0,0,1
-Bronx,High  Bridge,40.83662301,-73.92610209,47,Seafood Restaurant,2,0,3,1,92,0,3,2
-Bronx,Melrose,40.81975437,-73.90942161,41,Seafood Restaurant,1,0,2,1,93,0,31,2
-Bronx,Mott Haven,40.80623875,-73.91609987,35,Spanish Restaurant,3,0,4,0,76,0,0,1
-Bronx,Port Morris,40.80166363,-73.91322139,6,Restaurant,3,0,0,0,23,0,3,3
-Bronx,Longwood,40.81509905,-73.8957882,37,Sandwich Restaurant,1,0,1,0,71,0,4,0
-Bronx,Hunts Point,40.80972988,-73.88331506,5,Spanish Restaurant,0,2,0,0,28,0,2,3
-Bronx,Morrisania,40.82359199,-73.90150649,37,Steakhouse Restaurant,12,0,4,3,87,0,1,1
-Bronx,Soundview,40.8210122,-73.8657461,7,Latin American Restaurant,1,0,4,2,35,0,1,2
-Bronx,Clason Point,40.80655112,-73.85414416,1,Latin American Restaurant,1,0,0,1,29,0,0,2
-Bronx,Throgs Neck,40.81510926,-73.81635002,6,Pizza Restaurant,4,1,2,0,29,0,1,3
-Bronx,Country Club,40.84424594,-73.82409927,7,Sandwich Restaurant,4,1,2,0,33,0,0,1
-Bronx,Parkchester,40.83793782,-73.85600311,45,Steakhouse Restaurant,13,1,0,1,101,0,1,2
-Bronx,Westchester Square,40.8406195,-73.84219408,49,Spanish Restaurant,10,1,2,0,100,0,2,1
-Bronx,Van Nest,40.84360847,-73.86629918,30,Seafood Restaurant,0,1,0,2,69,0,0,2
-Bronx,Morris Park,40.84754906,-73.85040178,47,Seafood Restaurant,8,1,0,1,83,0,4,2
-Bronx,Belmont,40.8572771,-73.88845196,83,Spanish Restaurant,3,4,1,1,159,0,3,2
-Bronx,Spuyten Duyvil,40.88139498,-73.91719048,11,Thai Restaurant,3,1,0,0,29,0,13,0
-Bronx,North Riverdale,40.90854283,-73.90453055,14,Sandwich Restaurant,7,3,2,1,45,0,8,0
-Bronx,Pelham Bay,40.85064141,-73.83207378,23,Thai Restaurant,13,3,0,0,68,0,9,0
-Bronx,Schuylerville,40.82657952,-73.82620276,23,Sandwich Restaurant,1,2,5,0,54,0,1,1
-Bronx,Edgewater Park,40.82198612,-73.81388514,11,Pizza Restaurant,1,0,0,0,23,0,1,1
-Bronx,Castle Hill,40.81901438,-73.8480273,2,Pizza Restaurant,2,1,6,0,22,0,3,3
-Bronx,Olinville,40.87137078,-73.86332362,31,Sandwich Restaurant,1,1,1,0,63,0,1,1
-Bronx,Pelham Gardens,40.86296562,-73.84161195,6,Spanish Restaurant,10,0,0,3,28,0,0,3
-Bronx,Concourse,40.83428381,-73.91558942,44,Spanish Restaurant,1,0,3,0,85,0,0,1
-Bronx,Unionport,40.8297743,-73.85053524,46,Seafood Restaurant,4,0,0,0,75,0,3,1
-Bronx,Edenwald,40.8845613,-73.84808272,1,Sandwich Restaurant,0,0,8,0,16,0,0,3
-Brooklyn,Bay Ridge,40.62580107,-74.03062069,63,Vietnamese Restaurant,11,3,5,0,180,0,4,0
-Brooklyn,Bensonhurst,40.6110089,-73.99517998,49,Shabu-Shabu Restaurant,1,1,2,0,100,0,9,0
-Brooklyn,Sunset Park,40.64510295,-74.01031619,45,Thai Restaurant,3,4,1,0,106,0,5,0
-Brooklyn,Greenpoint,40.73020098,-73.95424093,70,Vietnamese Restaurant,2,0,0,0,168,50,14,4
-Brooklyn,Gravesend,40.59526001,-73.97347088,26,Restaurant,2,0,3,0,71,0,159,0
-Brooklyn,Brighton Beach,40.57682507,-73.96509449,43,Russian Restaurant,9,2,1,0,101,0,6,0
-Brooklyn,Sheepshead Bay,40.58689013,-73.9431864,33,Turkish Restaurant,5,1,0,0,94,0,5,0
-Brooklyn,Manhattan Terrace,40.61443251,-73.95743841,39,Steakhouse Restaurant,11,2,0,0,92,0,2,1
-Brooklyn,Flatbush,40.63632589,-73.95840107,42,Seafood Restaurant,9,1,1,0,89,0,0,1
-Brooklyn,Crown Heights,40.67082918,-73.94329119,34,Pizza Restaurant,0,0,4,0,86,50,10,0
-Brooklyn,East Flatbush,40.64171777,-73.93610256,8,Food Truck Restaurant,2,0,1,0,37,0,58,0
-Brooklyn,Kensington,40.64238196,-73.98042111,40,Thai Restaurant,3,0,2,0,104,50,5,0
-Brooklyn,Windsor Terrace,40.65694584,-73.9800734,37,Thai Restaurant,1,1,4,0,95,50,16,0
-Brooklyn,Prospect Heights,40.67682226,-73.96485924,75,Vietnamese Restaurant,1,0,2,0,150,44,35,4
-Brooklyn,Brownsville,40.66394994,-73.91023536,35,Spanish Restaurant,6,0,4,1,74,1,128,0
-Brooklyn,Williamsburg,40.70714439,-73.95811529,45,Thai Restaurant,0,0,0,0,100,50,2,1
-Brooklyn,Bushwick,40.69811611,-73.92525797,50,Vegetarian / Vegan Restaurant,1,1,2,1,133,50,8,4
-Brooklyn,Bedford Stuyvesant,40.68723161,-73.94178489,39,Seafood Restaurant,0,0,3,1,100,50,90,0
-Brooklyn,Brooklyn Heights,40.69586372,-73.99378225,63,Vietnamese Restaurant,1,0,1,0,167,88,72,4
-Brooklyn,Cobble Hill,40.68791972,-73.99856139,70,Yemeni Restaurant,0,0,0,0,162,50,0,4
-Brooklyn,Carroll Gardens,40.68054023,-73.99465373,73,Thai Restaurant,1,0,1,0,163,50,61,4
-Brooklyn,Red Hook,40.67625323,-74.01275897,20,Thai Restaurant,0,0,0,0,79,0,46,0
-Brooklyn,Gowanus,40.67393114,-73.99444087,52,Thai Restaurant,0,0,1,0,129,50,67,4
-Brooklyn,Fort Greene,40.68852726,-73.97290574,62,Vietnamese Restaurant,0,0,0,0,136,44,100,4
-Brooklyn,Park Slope,40.67232052,-73.9770503,58,Vietnamese Restaurant,6,1,0,0,130,44,24,4
-Brooklyn,Cypress Hills,40.68239101,-73.87661596,39,Spanish Restaurant,0,1,4,0,87,0,158,0
-Brooklyn,East New York,40.6699257,-73.88069864,9,Spanish Restaurant,3,0,3,1,37,0,0,2
-Brooklyn,Starrett City,40.64758905,-73.8793697,4,Pizza Restaurant,0,2,0,3,29,0,0,3
-Brooklyn,Canarsie,40.63556433,-73.9020927,3,Thai Restaurant,11,0,2,0,24,0,2,3
-Brooklyn,Flatlands,40.63044604,-73.92911303,7,Fast Food Restaurant,0,0,1,0,33,0,0,1
-Brooklyn,Mill Island,40.60633642,-73.90818572,0,Yemeni Restaurant,1,0,0,0,20,0,6,3
-Brooklyn,Manhattan Beach,40.5779135,-73.94353723,8,Sandwich Restaurant,3,0,1,1,29,0,1,2
-Brooklyn,Coney Island,40.57429256,-73.98868296,22,Seafood Restaurant,1,0,2,0,71,0,4,0
-Brooklyn,Bath Beach,40.5995187,-73.99875221,48,Turkish Restaurant,5,4,1,0,112,0,5,0
-Brooklyn,Borough Park,40.63313051,-73.99049823,29,Seafood Restaurant,3,5,3,0,87,0,2,1
-Brooklyn,Dyker Heights,40.61921946,-74.01931376,28,Thai Restaurant,3,0,2,1,69,0,3,2
-Brooklyn,Gerritsen Beach,40.59084843,-73.93010171,6,Seafood Restaurant,2,0,3,0,38,0,6,3
-Brooklyn,Marine Park,40.60974778,-73.93134404,3,Pizza Restaurant,2,0,1,0,26,0,5,3
-Brooklyn,Clinton Hill,40.69322942,-73.96784306,77,Vietnamese Restaurant,1,2,3,0,165,50,3,4
-Brooklyn,Sea Gate,40.57637538,-74.00787311,1,American Restaurant,3,0,0,2,24,0,119,2
-Brooklyn,Downtown,40.69084402,-73.98346337,74,Thai Restaurant,1,2,0,0,157,44,0,4
-Brooklyn,Boerum Hill,40.68568291,-73.98374824,66,Thai Restaurant,0,0,0,0,146,44,48,4
-Brooklyn,Prospect Lefferts Gardens,40.65842002,-73.95489867,56,Spanish Restaurant,6,0,0,0,117,50,343,4
-Brooklyn,Ocean Hill,40.67840255,-73.91306832,37,Southern / Soul Food Restaurant,5,0,3,3,91,1,35,0
-Brooklyn,City Line,40.67856996,-73.86797598,46,Thai Restaurant,2,2,1,2,98,0,17,0
-Brooklyn,Bergen Beach,40.61514955,-73.89855634,0,Yemeni Restaurant,2,0,0,0,24,0,2,3
-Brooklyn,Midwood,40.6255959,-73.95759523,33,Seafood Restaurant,5,0,1,0,76,0,1,1
-Brooklyn,Prospect Park South,40.6470086,-73.96261317,51,Thai Restaurant,0,2,1,0,116,50,9,4
-Brooklyn,Georgetown,40.62384524,-73.91607484,11,Seafood Restaurant,12,3,0,0,44,0,7,0
-Brooklyn,East Williamsburg,40.70849241,-73.93885815,45,Vegetarian / Vegan Restaurant,0,1,1,0,134,2,0,1
-Brooklyn,North Side,40.71482291,-73.95880858,77,Vegetarian / Vegan Restaurant,0,0,0,0,160,50,149,4
-Brooklyn,South Side,40.71086147,-73.95800095,85,Vietnamese Restaurant,0,0,0,0,149,50,230,4
-Brooklyn,Ocean Parkway,40.61305977,-73.96836678,32,Steakhouse Restaurant,5,0,0,2,78,0,447,2
-Brooklyn,Fort Hamilton,40.61476813,-74.03197915,59,Thai Restaurant,9,2,0,1,122,0,3,2
-Manhattan,Chinatown,40.71561842,-73.99427936,70,Vietnamese Restaurant,0,0,0,0,169,80,9,4
-Manhattan,Washington Heights,40.85190253,-73.93690028,64,Thai Restaurant,0,3,1,0,153,0,1,1
-Manhattan,Inwood,40.86768396,-73.92121042,58,Steakhouse Restaurant,5,0,0,1,120,0,54,2
-Manhattan,Hamilton Heights,40.82360428,-73.94968792,70,Thai Restaurant,0,2,3,0,127,6,23,4
-Manhattan,Manhattanville,40.81693443,-73.95738539,56,Spanish Restaurant,2,1,0,1,111,6,53,4
-Manhattan,Central Harlem,40.81597607,-73.94321113,44,Southern / Soul Food Restaurant,2,0,0,0,105,6,33,0
-Manhattan,East Harlem,40.79224947,-73.94418223,54,Thai Restaurant,7,0,1,0,111,50,104,4
-Manhattan,Upper East Side,40.77563857,-73.96050763,68,Vegetarian / Vegan Restaurant,0,0,0,0,166,50,80,4
-Manhattan,Yorkville,40.77592985,-73.94711784,76,Vietnamese Restaurant,2,1,2,0,163,50,118,4
-Manhattan,Lenox Hill,40.76811266,-73.95885969,80,Turkish Restaurant,2,0,0,0,160,50,117,4
-Manhattan,Roosevelt Island,40.76215961,-73.94916769,36,Seafood Restaurant,14,0,0,1,94,50,1038,2
-Manhattan,Upper West Side,40.787658,-73.97705924,91,Vietnamese Restaurant,0,0,0,0,168,50,135,4
-Manhattan,Lincoln Square,40.77352889,-73.98533777,53,Thai Restaurant,0,0,0,0,165,50,798,4
-Manhattan,Clinton,40.75910089,-73.99611936,71,Thai Restaurant,0,0,0,0,168,50,1552,4
-Manhattan,Midtown,40.7546911,-73.98166883,65,Vietnamese Restaurant,0,0,0,0,167,77,198,4
-Manhattan,Murray Hill M,40.74830308,-73.97833208,50,Vietnamese Restaurant,0,0,0,0,118,0,1432,4
-Manhattan,Chelsea M,40.74403471,-74.00311633,64,Thai Restaurant,0,0,0,0,168,0,218,4
-Manhattan,Greenwich Village,40.72693289,-73.99991403,77,Vietnamese Restaurant,0,0,0,0,162,80,645,4
-Manhattan,East Village,40.72784678,-73.98222617,83,Vietnamese Restaurant,0,0,0,0,167,50,47,4
-Manhattan,Lower East Side,40.71780675,-73.98089032,50,Vietnamese Restaurant,0,0,2,1,109,50,13,4
-Manhattan,Tribeca,40.72152197,-74.01068329,69,Vegetarian / Vegan Restaurant,0,0,1,0,153,80,39,4
-Manhattan,Little Italy,40.71932379,-73.99730467,74,Vietnamese Restaurant,0,0,0,0,150,80,6,4
-Manhattan,Soho,40.72218384,-74.00065667,63,Vegetarian / Vegan Restaurant,0,0,0,0,150,80,39,4
-Manhattan,West Village,40.73443394,-74.00617998,79,Seafood Restaurant,0,0,0,0,157,80,858,4
-Manhattan,Manhattan Valley,40.79730704,-73.96428618,62,Vietnamese Restaurant,0,0,0,0,115,50,2601,4
-Manhattan,Morningside Heights,40.80799974,-73.96389628,53,Thai Restaurant,0,0,1,0,103,50,236,4
-Manhattan,Gramercy,40.73720983,-73.98137595,73,Thai Restaurant,0,1,0,0,163,50,210,4
-Manhattan,Battery Park City,40.71193198,-74.01686931,54,Steakhouse Restaurant,0,0,0,0,155,50,90,4
-Manhattan,Financial District,40.70710711,-74.01066545,76,Steakhouse Restaurant,0,0,0,0,158,82,45,4
-Queens,Astoria,40.76850859,-73.91565374,79,Vegetarian / Vegan Restaurant,14,0,0,0,207,0,572,4
-Queens,Woodside,40.74634909,-73.90184167,65,Tibetan Restaurant,0,1,0,0,151,46,74,4
-Queens,Jackson Heights,40.75198138,-73.88282109,69,Thai Restaurant,12,0,1,0,146,0,16,0
-Queens,Elmhurst,40.74404851,-73.88165622,54,Vietnamese Restaurant,2,1,0,0,89,0,13,0
-Queens,Howard Beach,40.65422528,-73.83813765,43,Tapas Restaurant,1,1,0,0,105,0,22,0
-Queens,Corona,40.74238175,-73.85682497,36,Sandwich Restaurant,3,0,2,0,89,0,5,0
-Queens,Bay Terrace SI,40.72526378,-73.84447501,12,Thai Restaurant,4,1,1,0,59,0,6,0
-Queens,Kew Gardens,40.70517904,-73.82981906,47,Thai Restaurant,4,3,0,2,121,0,1,2
-Queens,Richmond Hill,40.69794731,-73.83183321,38,Spanish Restaurant,2,2,1,1,89,0,8,0
-Queens,Flushing,40.7644542,-73.831773,44,Szechuan Restaurant,3,0,1,0,126,0,6,0
-Queens,Long Island City,40.75021735,-73.93920224,58,Thai Restaurant,1,2,2,0,142,32,27,4
-Queens,Sunnyside Q,40.74017628,-73.92691618,23,Seafood Restaurant,1,0,1,0,59,0,34,0
-Queens,East Elmhurst,40.76407324,-73.86704148,29,Seafood Restaurant,1,0,0,0,78,0,2,1
-Queens,Maspeth,40.72542737,-73.89621714,42,Seafood Restaurant,1,2,4,0,103,16,499,0
-Queens,Ridgewood,40.70832316,-73.90143518,53,Vegetarian / Vegan Restaurant,2,4,3,0,106,16,10,0
-Queens,Glendale,40.70276243,-73.87074167,25,Seafood Restaurant,1,0,1,0,74,0,9,0
-Queens,Rego Park,40.72897409,-73.85782687,50,Thai Restaurant,2,0,0,0,108,0,3,3
-Queens,Woodhaven,40.68988688,-73.85811047,39,Thai Restaurant,0,2,4,0,94,0,15,0
-Queens,Ozone Park,40.68070847,-73.84320266,38,Spanish Restaurant,4,3,2,0,101,0,1,1
-Queens,South Ozone Park,40.66854958,-73.80986479,23,Sandwich Restaurant,2,1,0,0,80,0,6,0
-Queens,College Point,40.78490275,-73.84304529,42,Steakhouse Restaurant,3,1,2,0,107,0,5,0
-Queens,Whitestone,40.78129077,-73.81420217,25,Seafood Restaurant,9,0,2,0,72,0,2,1
-Queens,Bayside,40.76604063,-73.77427363,71,Vietnamese Restaurant,2,1,0,0,142,0,1,3
-Queens,Auburndale,40.76172955,-73.79176244,17,Thai Restaurant,2,1,2,0,64,3,6,0
-Queens,Little Neck,40.77082619,-73.73889776,51,Vietnamese Restaurant,10,2,0,2,120,0,2,2
-Queens,Douglaston,40.7668461,-73.74249821,26,Thai Restaurant,2,1,2,0,75,0,1,1
-Queens,Glen Oaks,40.7494408,-73.71548119,13,Sandwich Restaurant,16,1,0,1,51,0,0,2
-Queens,Bellerose,40.72857318,-73.72012815,24,Seafood Restaurant,4,1,1,0,71,0,3,1
-Queens,Kew Gardens Hills,40.72257824,-73.82087765,5,Sandwich Restaurant,2,3,4,1,36,0,0,2
-Queens,Fresh Meadows,40.73439447,-73.78271337,28,Vegetarian / Vegan Restaurant,0,0,1,3,82,0,8,0
-Queens,Briarwood,40.71093547,-73.81174822,25,Sandwich Restaurant,1,0,4,1,77,0,3,2
-Queens,Jamaica Center,40.70465736,-73.79690166,41,Thai Restaurant,2,1,1,1,111,0,3,2
-Queens,Oakland Gardens,40.74561857,-73.75494976,32,Vietnamese Restaurant,3,3,3,0,82,0,0,1
-Queens,Queens Village,40.71889309,-73.73871485,22,Sandwich Restaurant,3,4,1,1,64,0,2,2
-Queens,Hollis,40.71124344,-73.75925009,20,Seafood Restaurant,1,0,2,0,62,0,2,1
-Queens,South Jamaica,40.69691125,-73.79042613,13,Vegetarian / Vegan Restaurant,1,1,2,3,42,0,4,0
-Queens,St. Albans,40.69444539,-73.75867604,13,Seafood Restaurant,2,0,2,0,51,0,0,1
-Queens,Rochdale,40.6752114,-73.77258788,6,Southern / Soul Food Restaurant,2,2,2,2,31,0,3,2
-Queens,Springfield Gardens,40.66623049,-73.76042093,4,Sandwich Restaurant,1,0,7,2,33,0,1,2
-Queens,Cambria Heights,40.69277464,-73.73526874,8,Restaurant,3,0,2,0,42,0,2,1
-Queens,Rosedale,40.65981643,-73.73526079,9,Sandwich Restaurant,3,0,1,2,42,0,4,0
-Queens,Far Rockaway,40.60313443,-73.75497968,34,Southern / Soul Food Restaurant,5,1,3,1,70,0,6,0
-Queens,Broad Channel,40.60302658,-73.82005489,1,Pizza Restaurant,0,0,0,0,23,0,2,3
-Queens,Breezy Point,40.55740129,-73.92551197,0,Vietnamese Restaurant,0,0,2,0,23,0,0,3
-Queens,Steinway,40.77592302,-73.9022896,33,Thai Restaurant,2,2,0,0,90,0,0,1
-Queens,Beechhurst,40.7927814,-73.80436452,6,Restaurant,2,1,0,0,33,3,26,3
-Queens,Bay Terrace Q,40.78284281,-73.77680223,7,Steakhouse Restaurant,6,1,1,0,55,0,1,1
-Queens,Edgemere,40.59564181,-73.77613282,4,Seafood Restaurant,6,0,2,1,33,0,6,2
-Queens,Arverne,40.58914394,-73.79199233,15,Sandwich Restaurant,5,0,0,1,58,0,0,2
-Queens,Rockaway Beach,40.5828017,-73.82236121,51,Vegetarian / Vegan Restaurant,0,0,3,1,113,0,0,2
-Queens,Neponsit,40.57203673,-73.85754672,10,Sandwich Restaurant,1,0,3,0,46,0,1,1
-Queens,Murray Hill Q,40.76412612,-73.81276269,30,Pizza Restaurant,8,2,1,0,65,0,0,1
-Queens,Floral Park,40.74137842,-73.70884706,20,Sandwich Restaurant,1,2,2,0,56,0,2,1
-Queens,Holliswood,40.72095721,-73.76714167,13,Seafood Restaurant,7,2,1,0,47,0,3,1
-Queens,Jamaica Estates,40.71680483,-73.78722697,15,Sandwich Restaurant,15,0,1,1,50,0,2,2
-Queens,Queensboro Hill,40.74457231,-73.82580915,20,Taiwanese Restaurant,16,2,1,1,60,7,4,0
-Queens,Hillcrest,40.7238249,-73.79760301,15,Sandwich Restaurant,5,1,1,0,52,0,11,0
-Queens,Ravenswood,40.76170453,-73.93157506,49,Thai Restaurant,0,0,0,0,94,0,8,4
-Queens,Lindenwood,40.66391842,-73.84963782,3,Pizza Restaurant,5,2,0,0,31,0,70,3
-Queens,Laurelton,40.6678839,-73.74025608,16,Seafood Restaurant,0,1,3,0,40,0,2,1
-Queens,Lefrak City,40.73607457,-73.86252471,34,Steakhouse Restaurant,0,1,0,0,84,0,3,1
-Queens,Belle Harbor,40.57615557,-73.8540175,13,Restaurant,1,1,1,0,55,0,18,0
-Queens,Rockaway Park,40.58034296,-73.8415337,34,Seafood Restaurant,4,2,0,0,87,0,0,1
-Queens,Somerville,40.59771062,-73.79664751,0,Vietnamese Restaurant,0,0,1,1,13,0,0,2
-Queens,Brookville,40.66000323,-73.75175311,0,Vietnamese Restaurant,2,0,0,0,14,0,0,3
-Queens,Bellaire,40.73301404,-73.73889199,7,Italian Restaurant,2,0,3,2,32,0,4,0
-Queens,North Corona,40.754071,-73.85751791,33,Thai Restaurant,1,0,1,0,84,21,1,1
-Queens,Forest Hills Gardens,40.71461108,-73.84102211,30,Sandwich Restaurant,3,1,0,0,80,0,42,0
-Staten Island,St. George,40.64498157,-74.07935313,19,Tapas Restaurant,5,0,4,1,113,0,34,2
-Staten Island,New Brighton,40.64061456,-74.08701651,5,Mexican Restaurant,1,0,1,3,31,0,0,3
-Staten Island,Stapleton,40.62692763,-74.07790193,14,Sri Lankan Restaurant,2,3,3,1,57,0,0,2
-Staten Island,Sunnyside SI,40.61530495,-74.06980527,12,Sandwich Restaurant,3,0,0,1,48,0,0,2
-Staten Island,West Brighton,40.63187893,-74.10718178,21,Sandwich Restaurant,18,2,0,1,61,0,0,2
-Staten Island,Grymes Hill,40.62418479,-74.0872482,0,Vietnamese Restaurant,0,0,3,0,13,0,0,3
-Staten Island,Todt Hill,40.59706852,-74.11132882,0,Vietnamese Restaurant,0,0,1,0,19,0,0,3
-Staten Island,South Beach,40.58024741,-74.07955293,0,Vietnamese Restaurant,17,0,0,0,26,0,1,3
-Staten Island,Port Richmond,40.63366931,-74.12943427,23,Thai Restaurant,2,0,3,4,67,0,0,1
-Staten Island,Mariner's Harbor,40.63254639,-74.15008537,1,Italian Restaurant,0,0,1,2,24,0,0,2
-Staten Island,Port Ivory,40.63968298,-74.17464533,0,Vietnamese Restaurant,1,0,2,0,20,0,0,3
-Staten Island,Castleton Corners,40.61333594,-74.11918059,8,Sandwich Restaurant,8,1,0,0,32,0,0,1
-Staten Island,New Springville,40.59425238,-74.16496031,7,Sandwich Restaurant,6,0,0,0,40,0,0,1
-Staten Island,Travis,40.58631375,-74.19073718,0,Vietnamese Restaurant,0,0,0,0,31,0,0,3
-Staten Island,New Dorp,40.57257232,-74.11647944,21,Vietnamese Restaurant,4,1,3,0,57,0,1,1
-Staten Island,Oakwood,40.55846224,-74.12156594,0,Vietnamese Restaurant,8,0,1,1,23,0,0,2
-Staten Island,Great Kills,40.54948023,-74.14932381,8,Spanish Restaurant,1,0,1,0,37,0,0,1
-Staten Island,Eltingville,40.54223075,-74.1643308,17,Sandwich Restaurant,6,3,0,0,47,0,0,1
-Staten Island,Annadale,40.53811417,-74.17854866,6,Restaurant,6,0,1,0,28,0,0,3
-Staten Island,Woodrow,40.54196762,-74.20524582,8,Pizza Restaurant,2,0,1,0,35,0,0,1
-Staten Island,Tottenville,40.50533376,-74.24656934,2,Mexican Restaurant,0,0,1,1,25,0,0,2
-Staten Island,Tompkinsville,40.63731607,-74.08055352,25,Spanish Restaurant,1,0,0,1,65,0,0,2
-Staten Island,Silver Lake,40.61919311,-74.09629029,2,Burger Restaurant,3,0,2,0,20,0,0,3
-Staten Island,Sunnyside,40.61276016,-74.09712552,27,Pizza Restaurant,2,0,1,0,65,2,0,1
-Brooklyn,Ditmas Park,40.64367518,-73.96101312,51,Tibetan Restaurant,0,0,0,0,101,50,0,4
-Brooklyn,Wingate,40.66094656,-73.93718681,44,Seafood Restaurant,13,0,4,1,90,1,36,0
-Brooklyn,Rugby,40.65557231,-73.92688213,51,Seafood Restaurant,3,2,0,0,71,8,26,4
-Staten Island,Park Hill,40.60919044,-74.08015735,1,Coffee Restaurant,1,0,0,2,22,0,6,2
-Staten Island,Westerleigh,40.62109047,-74.13304144,17,Thai Restaurant,2,1,0,0,52,0,0,1
-Staten Island,Graniteville,40.62017151,-74.15315246,0,Vietnamese Restaurant,2,0,1,1,14,0,0,2
-Staten Island,Arlington,40.6353251,-74.1651042,1,American Restaurant,0,0,0,2,18,0,6,2
-Staten Island,Arrochar,40.59631257,-74.06712363,10,Sandwich Restaurant,2,0,2,3,43,0,0,1
-Staten Island,Grasmere,40.59826836,-74.07667436,6,Vegetarian / Vegan Restaurant,1,1,1,5,36,0,3,3
-Staten Island,Old Town,40.59632891,-74.08751118,7,Restaurant,7,2,0,0,32,0,1,1
-Staten Island,Dongan Hills,40.58867295,-74.09639905,14,Sandwich Restaurant,5,2,0,0,44,0,1,1
-Staten Island,Midland Beach,40.57352691,-74.09348266,3,Russian Restaurant,2,0,0,0,29,0,0,3
-Staten Island,Grant City,40.57621559,-74.10585599,21,Pizza Restaurant,2,0,0,0,51,0,0,1
-Staten Island,New Dorp Beach,40.56425549,-74.10432707,4,Restaurant,0,0,0,0,19,0,0,3
-Staten Island,Bay Terrace,40.55398801,-74.13916622,2,Japanese Restaurant,1,0,0,0,22,0,0,3
-Staten Island,Huguenot,40.53191192,-74.19174106,5,Sandwich Restaurant,2,3,3,0,28,0,0,3
-Staten Island,Pleasant Plains,40.52469938,-74.21983107,5,Pizza Restaurant,1,0,1,1,34,0,2,2
-Staten Island,Butler Manor,40.50608165,-74.2295035,0,Vietnamese Restaurant,1,0,0,1,24,0,0,2
-Staten Island,Charleston,40.53053148,-74.23215776,5,Pizza Restaurant,1,0,0,0,42,0,0,3
-Staten Island,Rossville,40.54940401,-74.21572851,5,Pizza Restaurant,2,0,1,0,31,0,0,3
-Staten Island,Arden Heights,40.54928582,-74.18588675,2,Pizza Restaurant,4,0,0,1,24,0,0,2
-Staten Island,Greenridge,40.55529524,-74.17079415,3,Pizza Restaurant,6,0,1,0,25,0,0,3
-Staten Island,Heartland Village,40.58913895,-74.15902208,4,Restaurant,0,0,3,0,20,0,0,3
-Staten Island,Chelsea SI,40.59472603,-74.18956046,3,Steakhouse Restaurant,1,0,0,2,23,0,0,2
-Staten Island,Bloomfield,40.60577868,-74.18725638,1,Burger Restaurant,0,0,0,1,19,0,0,2
-Staten Island,Bulls Head,40.6095918,-74.15940949,21,Thai Restaurant,4,1,0,4,66,0,0,1
-Manhattan,Carnegie Hill,40.78268257,-73.95325647,70,Vietnamese Restaurant,1,0,3,0,148,50,1,4
-Manhattan,Noho,40.72325902,-73.98843368,73,Vietnamese Restaurant,0,0,0,0,150,50,1005,4
-Manhattan,Civic Center,40.71522892,-74.0054153,63,Vegetarian / Vegan Restaurant,0,0,0,0,150,80,2395,4
-Manhattan,Midtown South,40.74850966,-73.98871313,71,Vegetarian / Vegan Restaurant,0,0,0,0,168,77,2362,4
-Staten Island,Richmond Town,40.56960594,-74.1340573,2,Italian Restaurant,3,0,3,0,22,0,1479,3
-Staten Island,Shore Acres,40.60971934,-74.06667766,6,Restaurant,2,0,0,2,35,0,0,2
-Staten Island,Clifton,40.61917845,-74.07264245,9,Restaurant,0,0,0,1,29,0,1,2
-Staten Island,Concord,40.60447319,-74.08402365,3,Peruvian Restaurant,0,0,1,0,11,0,0,3
-Staten Island,Emerson Hill,40.60679439,-74.09776207,0,Vietnamese Restaurant,1,0,0,0,1,0,0,3
-Staten Island,Randall Manor,40.63563001,-74.09805062,1,Pizza Restaurant,7,0,0,0,12,0,0,3
-Staten Island,Howland Hook,40.63843284,-74.18622332,0,Vietnamese Restaurant,0,0,0,0,18,0,0,3
-Staten Island,Elm Park,40.63014674,-74.14181679,35,Seafood Restaurant,0,0,0,2,62,0,0,2
-Brooklyn,Remsen Village,40.65211745,-73.91665332,14,Sandwich Restaurant,8,0,5,0,43,8,0,1
-Brooklyn,New Lots,40.66274428,-73.88511776,5,Pizza Restaurant,1,1,5,0,36,0,11,3
-Brooklyn,Paerdegat Basin,40.63131755,-73.90233474,1,Asian Restaurant,0,0,0,0,20,0,2,3
-Brooklyn,Mill Basin,40.61597424,-73.91515392,28,Sandwich Restaurant,0,2,0,0,61,0,3,1
-Queens,Jamaica Hills,40.71145964,-73.79646462,43,Thai Restaurant,3,0,1,0,85,0,3,1
-Queens,Utopia,40.73350025,-73.79671678,19,Seafood Restaurant,3,0,3,0,64,0,9,0
-Queens,Pomonok,40.73493618,-73.8048612,12,Sandwich Restaurant,4,0,0,0,39,0,0,1
-Queens,Astoria Heights,40.77031739,-73.89467996,3,Pizza Restaurant,1,0,0,2,30,0,1,2
-Bronx,Claremont Village,40.83142834,-73.90119903,16,Steakhouse Restaurant,6,0,1,3,45,0,161,0
-Bronx,Concourse Village,40.82478049,-73.91584653,46,Sandwich Restaurant,8,0,0,0,96,0,2,1
-Bronx,Mount Eden,40.84382618,-73.91655552,45,Spanish Restaurant,5,0,0,0,81,0,26,0
-Bronx,Mount Hope,40.84884161,-73.90829931,33,Spanish Restaurant,3,0,0,0,66,0,4,0
-Manhattan,Sutton Place,40.76028033,-73.96355614,74,Vegetarian / Vegan Restaurant,0,1,0,0,166,50,2,4
-Queens,Hunters Point,40.74341409,-73.95386782,65,Vietnamese Restaurant,0,1,1,0,134,80,1449,4
-Manhattan,Turtle Bay,40.75204237,-73.96770825,86,Turkish Restaurant,0,0,0,0,161,77,117,4
-Manhattan,Tudor City,40.74691741,-73.97121929,78,Vietnamese Restaurant,0,1,0,0,136,77,1068,4
-Manhattan,Stuyvesant Town,40.73099955,-73.9740517,29,Thai Restaurant,4,0,0,0,83,50,1346,4
-Manhattan,Flatiron,40.73967305,-73.99094711,76,Vegetarian / Vegan Restaurant,0,0,0,0,165,80,469,4
-Queens,Sunnyside Gardens,40.74565181,-73.91819286,70,Turkish Restaurant,0,3,0,0,160,32,3651,4
-Queens,Blissville,40.73725072,-73.93244235,32,Thai Restaurant,0,0,1,2,78,2,46,0
-Brooklyn,Fulton Ferry,40.70328109,-73.99550752,47,Vietnamese Restaurant,1,0,0,0,122,88,30,4
-Brooklyn,Vinegar Hill,40.7033215,-73.98111604,35,Sandwich Restaurant,0,0,1,1,91,50,86,0
-Brooklyn,Weeksville,40.67503987,-73.93053109,39,Steakhouse Restaurant,1,0,5,0,80,1,7,0
-Brooklyn,Broadway Junction,40.67786105,-73.90331685,26,Seafood Restaurant,3,1,2,2,59,1,25,0
-Brooklyn,Dumbo,40.70317633,-73.98875281,58,Vietnamese Restaurant,0,0,0,0,124,50,8,4
-Staten Island,Manor Heights,40.60180958,-74.120594,3,Pizza Restaurant,3,0,0,0,25,0,194,3
-Staten Island,Willowbrook,40.60370693,-74.13208447,0,Vietnamese Restaurant,2,0,2,1,23,0,0,2
-Staten Island,Sandy Ground,40.54113992,-74.21776636,2,Food Truck Restaurant,3,0,0,2,25,0,0,2
-Staten Island,Egbertville,40.57911874,-74.12727241,1,Italian Restaurant,5,0,1,0,18,0,0,3
-Queens,Roxbury,40.56737589,-73.8921376,1,Fast Food Restaurant,1,0,0,0,25,0,0,3
-Brooklyn,Homecrest,40.5985251,-73.95918459,41,Vietnamese Restaurant,6,5,1,0,105,2,0,1
-Queens,Middle Village,40.71641451,-73.88114319,29,Seafood Restaurant,3,2,5,0,84,0,8,0
-Staten Island,Prince's Bay,40.52626407,-74.20152556,6,Pizza Restaurant,4,2,0,0,25,0,7,3
-Staten Island,Lighthouse Hill,40.57650629,-74.13792664,2,Italian Restaurant,0,0,1,0,12,0,0,3
-Staten Island,Richmond Valley,40.51954146,-74.22957081,4,Sandwich Restaurant,5,2,0,0,25,0,0,3
-Queens,Malba,40.79060156,-73.82667757,1,Vegetarian / Vegan Restaurant,0,0,1,1,21,0,0,2
-Brooklyn,Highland Park,40.68199893,-73.89034571,3,Pizza Restaurant,1,0,1,0,27,1,6,0
-Brooklyn,Madison,40.6093777,-73.94841515,5,Restaurant,12,0,1,0,31,0,1,3
-Bronx,Bronxdale,40.85272298,-73.86172578,40,Spanish Restaurant,2,2,1,0,71,0,7,0
-Bronx,Allerton,40.86578788,-73.85931863,36,Sandwich Restaurant,1,0,1,1,68,0,7,0
-Bronx,Kingsbridge Heights,40.87039239,-73.90152265,52,Vietnamese Restaurant,13,0,0,2,94,0,4,2
-Brooklyn,Erasmus,40.64692607,-73.9481771,39,Seafood Restaurant,0,1,0,0,81,50,9,0
-Manhattan,Hudson Yards,40.75665808,-74.00011136,61,Thai Restaurant,0,0,0,1,133,100,20,4
-Queens,Hammels,40.58733774,-73.80553003,33,Seafood Restaurant,0,0,1,2,80,0,1615,2
-Queens,Bayswater,40.61132169,-73.76596781,0,Vietnamese Restaurant,0,0,0,0,19,0,1,3
-Queens,Queensbridge,40.7560913,-73.9456307,31,Spanish Restaurant,0,0,0,0,75,80,0,1
-Staten Island,Fox Hills,40.61731079,-74.08173992,2,Sandwich Restaurant,1,0,1,1,7,0,53,2
+Neighborhood,Cluster
+Wakefield,3
+Co-op City,2
+Eastchester,1
+Fieldston,2
+Riverdale,2
+Kingsbridge,4
+Marble Hill,0
+Woodlawn,2
+Norwood,0
+Williamsbridge,1
+Baychester,1
+Pelham Parkway,1
+City Island,1
+Bedford Park,2
+University Heights,2
+Morris Heights,2
+Fordham,2
+East Tremont,1
+West Farms,1
+High  Bridge,2
+Melrose,2
+Mott Haven,1
+Port Morris,3
+Longwood,0
+Hunts Point,3
+Morrisania,1
+Soundview,2
+Clason Point,2
+Throgs Neck,3
+Country Club,1
+Parkchester,2
+Westchester Square,1
+Van Nest,2
+Morris Park,2
+Belmont,2
+Spuyten Duyvil,0
+North Riverdale,0
+Pelham Bay,0
+Schuylerville,1
+Edgewater Park,1
+Castle Hill,3
+Olinville,1
+Pelham Gardens,3
+Concourse,1
+Unionport,1
+Edenwald,3
+Bay Ridge,0
+Bensonhurst,0
+Sunset Park,0
+Greenpoint,4
+Gravesend,0
+Brighton Beach,0
+Sheepshead Bay,0
+Manhattan Terrace,1
+Flatbush,1
+Crown Heights,0
+East Flatbush,0
+Kensington,0
+Windsor Terrace,0
+Prospect Heights,4
+Brownsville,0
+Williamsburg,1
+Bushwick,4
+Bedford Stuyvesant,0
+Brooklyn Heights,4
+Cobble Hill,4
+Carroll Gardens,4
+Red Hook,0
+Gowanus,4
+Fort Greene,4
+Park Slope,4
+Cypress Hills,0
+East New York,2
+Starrett City,3
+Canarsie,3
+Flatlands,1
+Mill Island,3
+Manhattan Beach,2
+Coney Island,0
+Bath Beach,0
+Borough Park,1
+Dyker Heights,2
+Gerritsen Beach,3
+Marine Park,3
+Clinton Hill,4
+Sea Gate,2
+Downtown,4
+Boerum Hill,4
+Prospect Lefferts Gardens,4
+Ocean Hill,0
+City Line,0
+Bergen Beach,3
+Midwood,1
+Prospect Park South,4
+Georgetown,0
+East Williamsburg,1
+North Side,4
+South Side,4
+Ocean Parkway,2
+Fort Hamilton,2
+Chinatown,4
+Washington Heights,1
+Inwood,2
+Hamilton Heights,4
+Manhattanville,4
+Central Harlem,0
+East Harlem,4
+Upper East Side,4
+Yorkville,4
+Lenox Hill,4
+Roosevelt Island,2
+Upper West Side,4
+Lincoln Square,4
+Clinton,4
+Midtown,4
+Murray Hill M,4
+Chelsea M,4
+Greenwich Village,4
+East Village,4
+Lower East Side,4
+Tribeca,4
+Little Italy,4
+Soho,4
+West Village,4
+Manhattan Valley,4
+Morningside Heights,4
+Gramercy,4
+Battery Park City,4
+Financial District,4
+Astoria,4
+Woodside,4
+Jackson Heights,0
+Elmhurst,0
+Howard Beach,0
+Corona,0
+Bay Terrace SI,0
+Kew Gardens,2
+Richmond Hill,0
+Flushing,0
+Long Island City,4
+Sunnyside Q,0
+East Elmhurst,1
+Maspeth,0
+Ridgewood,0
+Glendale,0
+Rego Park,3
+Woodhaven,0
+Ozone Park,1
+South Ozone Park,0
+College Point,0
+Whitestone,1
+Bayside,3
+Auburndale,0
+Little Neck,2
+Douglaston,1
+Glen Oaks,2
+Bellerose,1
+Kew Gardens Hills,2
+Fresh Meadows,0
+Briarwood,2
+Jamaica Center,2
+Oakland Gardens,1
+Queens Village,2
+Hollis,1
+South Jamaica,0
+St. Albans,1
+Rochdale,2
+Springfield Gardens,2
+Cambria Heights,1
+Rosedale,0
+Far Rockaway,0
+Broad Channel,3
+Breezy Point,3
+Steinway,1
+Beechhurst,3
+Bay Terrace Q,1
+Edgemere,2
+Arverne,2
+Rockaway Beach,2
+Neponsit,1
+Murray Hill Q,1
+Floral Park,1
+Holliswood,1
+Jamaica Estates,2
+Queensboro Hill,0
+Hillcrest,0
+Ravenswood,4
+Lindenwood,3
+Laurelton,1
+Lefrak City,1
+Belle Harbor,0
+Rockaway Park,1
+Somerville,2
+Brookville,3
+Bellaire,0
+North Corona,1
+Forest Hills Gardens,0
+St. George,2
+New Brighton,3
+Stapleton,2
+Sunnyside SI,2
+West Brighton,2
+Grymes Hill,3
+Todt Hill,3
+South Beach,3
+Port Richmond,1
+Mariner's Harbor,2
+Port Ivory,3
+Castleton Corners,1
+New Springville,1
+Travis,3
+New Dorp,1
+Oakwood,2
+Great Kills,1
+Eltingville,1
+Annadale,3
+Woodrow,1
+Tottenville,2
+Tompkinsville,2
+Silver Lake,3
+Sunnyside,1
+Ditmas Park,4
+Wingate,0
+Rugby,4
+Park Hill,2
+Westerleigh,1
+Graniteville,2
+Arlington,2
+Arrochar,1
+Grasmere,3
+Old Town,1
+Dongan Hills,1
+Midland Beach,3
+Grant City,1
+New Dorp Beach,3
+Bay Terrace,3
+Huguenot,3
+Pleasant Plains,2
+Butler Manor,2
+Charleston,3
+Rossville,3
+Arden Heights,2
+Greenridge,3
+Heartland Village,3
+Chelsea SI,2
+Bloomfield,2
+Bulls Head,1
+Carnegie Hill,4
+Noho,4
+Civic Center,4
+Midtown South,4
+Richmond Town,3
+Shore Acres,2
+Clifton,2
+Concord,3
+Emerson Hill,3
+Randall Manor,3
+Howland Hook,3
+Elm Park,2
+Remsen Village,1
+New Lots,3
+Paerdegat Basin,3
+Mill Basin,1
+Jamaica Hills,1
+Utopia,0
+Pomonok,1
+Astoria Heights,2
+Claremont Village,0
+Concourse Village,1
+Mount Eden,0
+Mount Hope,0
+Sutton Place,4
+Hunters Point,4
+Turtle Bay,4
+Tudor City,4
+Stuyvesant Town,4
+Flatiron,4
+Sunnyside Gardens,4
+Blissville,0
+Fulton Ferry,4
+Vinegar Hill,0
+Weeksville,0
+Broadway Junction,0
+Dumbo,4
+Manor Heights,3
+Willowbrook,2
+Sandy Ground,2
+Egbertville,3
+Roxbury,3
+Homecrest,1
+Middle Village,0
+Prince's Bay,3
+Lighthouse Hill,3
+Richmond Valley,3
+Malba,2
+Highland Park,0
+Madison,3
+Bronxdale,0
+Allerton,0
+Kingsbridge Heights,2
+Erasmus,0
+Hudson Yards,4
+Hammels,2
+Bayswater,3
+Queensbridge,1
+Fox Hills,2
